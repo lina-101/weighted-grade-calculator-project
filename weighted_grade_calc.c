@@ -1,4 +1,4 @@
-//COMP 1410 Assignment #2: Malina Klassen
+//Weighted Grade Calculator Project/Assignment
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
